@@ -1,6 +1,6 @@
 namespace FreakyKit.Maui.Utils;
 
-public partial class Permissions
+internal partial class Permissions
 {
     public partial void NavigateToAppSettings(string? packageName)
     {
